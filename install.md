@@ -28,7 +28,7 @@
 # Скачивание apk файла
 
 ### Переход к релизам
-Чтобы установить последний релиз приложение необходимо перейти в раздел "releases" из главной [страницы репозитория](https://github.com/stakancheck/ArduinoHandbookVersion2) или по ссылке на [страницу релизов](https://github.com/stakancheck/ArduinoHandbookVersion2/releases).
+Чтобы установить последний релиз приложение необходимо перейти в раздел "releases" из главной [страницы репозитория](https://github.com/stakancheck/ArduinoHandbookApp) или по ссылке на [страницу релизов](https://github.com/stakancheck/ArduinoHandbookApp/releases).
 
 <img src="images/releases.png">
 
