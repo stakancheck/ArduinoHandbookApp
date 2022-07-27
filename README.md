@@ -1,9 +1,3 @@
-![shield-version]
-![shield-issues-closed]
-![shiled-apk-size]
-
-
-
   <p align="center">
   <img src="images/logo.png" width="300">
   <h1 align="center">Arduino HandBook</h3>
