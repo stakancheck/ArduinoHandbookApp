@@ -18,6 +18,7 @@
     </li>
     <li><a href="#целевая-аудитория">Целевая аудитория</a></li>
     <li><a href="#участники-проекта">Участники проекта</a></li>
+    <li><a href="#презентационные-материалы">Презентационные материалы</a></li>
     <li><a href="install.md">Установка приложения</a></li>
   </ol>
 </details>
@@ -82,6 +83,37 @@
 Разработчик серверной и клиентской частей, отвечает за отладку на разных устройствах, основные функции, написание кода.
 
 <img src="https://github.com/stakancheck/ArduinohandbookData/blob/main/images/Untitled%20(3).png?raw=true" width="200">
+
+
+# Презентационные материалы
+
+## Samsung It School
+
+- Видеоролик работы приложения [на google disk](https://drive.google.com/file/d/1lqUAL6tciTURcC5WYW9DhYYbSiIsXUd3/view?usp=sharing)
+- Тестовые дизайны в [Figma](https://www.figma.com/file/Lsc0eTRcW7NhbmPspVEpPM/ArduinoHandbook-Tests?node-id=0%3A1) 
+- Презентация для Samsung [на google disk](https://drive.google.com/file/d/11cSfSQVh3y3CVHWEurM5_afDipkUCSX2/view?usp=sharing)
+- Паспорт проекта [на google disk](https://docs.google.com/document/d/1iXTJ4DK6DzgWN0FLV6RnRCbV0p6XdXwJHtbu04n_Zwo/edit?usp=sharing)
+
+## Sber-Z
+
+- Видеоролик работы приложения [на google disk](https://drive.google.com/file/d/1lqUAL6tciTURcC5WYW9DhYYbSiIsXUd3/view?usp=sharing)
+- Тестовые дизайны в [Figma](https://www.figma.com/file/Lsc0eTRcW7NhbmPspVEpPM/ArduinoHandbook-Tests?node-id=0%3A1) 
+- Презентация для SberZ [на google disk](https://drive.google.com/file/d/13mtLT0wYjFaSABcyikshEsfkbF2slIIH/view?usp=sharing)
+- Бизнес-план для развития проекта с freemium [на google disk](https://docs.google.com/spreadsheets/d/1SHgbenSR-OkUJCG67kFEZlnpksHOD2AN/edit?usp=sharing&ouid=104996160506186828714&rtpof=true&sd=true)
+
+## Kvantorium, ItCube
+
+- Презентация для Samsung [на google disk](https://drive.google.com/file/d/11cSfSQVh3y3CVHWEurM5_afDipkUCSX2/view?usp=sharing)
+- Плакат проекта для защиты в д.т. "Кванториум" [на google disk](https://drive.google.com/file/d/1F9Whj9Z8KxPmHzDmb5Oe_Tuj6Q7qUZsw/view?usp=sharing)
+- Паспорт проекта для ItCube [на google disk](https://docs.google.com/document/d/1iXTJ4DK6DzgWN0FLV6RnRCbV0p6XdXwJHtbu04n_Zwo/edit?usp=sharing)
+
+## IT-Fest
+
+- Видеоролик работы приложения [на google disk](https://drive.google.com/file/d/1lqUAL6tciTURcC5WYW9DhYYbSiIsXUd3/view?usp=sharing)
+- Альтернативный вид карточки [на сайте](https://stakancheck.notion.site/ArduinoHandbook-11-894680b2482b4a5b8045a26e1ae5dfdf)
+- Тестовые дизайны в [Figma](https://www.figma.com/file/Lsc0eTRcW7NhbmPspVEpPM/ArduinoHandbook-Tests?node-id=0%3A1) 
+
+
 
 **Загрузить приложение можно, скачав и установив файл apk из последнего релиза**
 
